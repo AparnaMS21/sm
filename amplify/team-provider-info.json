@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-superadmin-dev-131959-authRole",
+      "UnauthRoleArn": "arn:aws:iam::450588199569:role/amplify-superadmin-dev-131959-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::450588199569:role/amplify-superadmin-dev-131959-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-superadmin-dev-131959-deployment",
+      "UnauthRoleName": "amplify-superadmin-dev-131959-unauthRole",
+      "StackName": "amplify-superadmin-dev-131959",
+      "StackId": "arn:aws:cloudformation:ap-south-1:450588199569:stack/amplify-superadmin-dev-131959/72268620-dcc8-11ec-918c-0a799f328ada",
+      "AmplifyAppId": "d1t7iw876h0jm8"
+    },
+    "categories": {
+      "auth": {
+        "superadmin124088ac": {}
+      }
+    }
+  }
+}
